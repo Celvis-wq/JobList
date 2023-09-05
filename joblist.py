@@ -1,5 +1,8 @@
 # joblist.py
 
+def testPassword(x):
+    print(x)
+
 a = "String 1"
 b = "String 2"
 
@@ -13,3 +16,6 @@ jobList = {'John': 'Doctor', 'Jane': 'Engineer', 'Jim': 'Teacher'}
 
 for name, i in jobList.items():
     print(f"{name} is a {i}")
+
+Password = 'SuperSecretAdminPassword'
+testPassword(Password)
