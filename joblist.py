@@ -1,5 +1,4 @@
 # joblist.py
-# Updated.
 
 def testPassword(x):
     print(x)
