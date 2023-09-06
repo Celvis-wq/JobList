@@ -3,7 +3,7 @@
 
 ## Purpose:
 
-- This contains a bunch of strings and prints them out. This is apart of a lesson in my class.
+- This contains a bunch of strings and prints them out. This is apart of a lesson in my cyber class.
 <br />
 
 ## FAQ:
